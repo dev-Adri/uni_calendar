@@ -1,0 +1,110 @@
+{
+    "Monday": [
+        {
+            "name": "Διοικηση Ασφαλειας Πληροφοριακων Συστηματων",
+            "room": "Αιθουσα 3",
+            "hours": "9:00-11:00",
+            "link": "https://opencourses.ionio.gr/courses/DDI126/"
+        },
+        {
+            "name": "Αποθηκες δεδομεων και εξορυξη γνωσης",
+            "room": "Γαληνος",
+            "hours": "11:00-13:00",
+            "link": "https://opencourses.ionio.gr/courses/DDI200/"
+        },
+        {
+            "name": "Παραλληλος προγραμματισμος",
+            "room": "Αρεταιος",
+            "hours": "15:00-17:00",
+            "link": "https://opencourses.ionio.gr/courses/DDI185/"
+        },
+        {
+            "name": "Μεταγλωτιστες",
+            "room": "Γαληνος",
+            "hours": "17:00-19:00",
+            "link": "https://opencourses.ionio.gr/courses/DDI154/"
+        }
+    ],
+    "Tuesday": [
+        {
+            "name": "Εξυπνες τεχνολογιες και εφαρμογες",
+            "room": "Γαληνος",
+            "hours": "11:00-13:00",
+            "link": "https://opencourses.ionio.gr/courses/DDI196/"
+        },
+        {
+            "name": "Δικτυα Αισθητηρων",
+            "room": "Αρεταιος",
+            "hours": "13:00-15:00",
+            "link": "https://opencourses.ionio.gr/courses/DDI267/"
+        },
+        {
+            "name": "Αποθηκες δεδομεων και εξορυξη γνωσης",
+            "room": "Αιθουσα 3",
+            "hours": "15:00-17:00",
+            "link": "https://opencourses.ionio.gr/courses/DDI200/"
+        }
+    ],
+    "Wednesday": [
+        {
+            "name": "Μεταγλωτιστες",
+            "room": "Γαληνος",
+            "hours": "13:00-15:00",
+            "link": "https://opencourses.ionio.gr/courses/DDI154/"
+        },
+        {
+            "name": "Παραλληλος προγραμματισμος",
+            "room": "Αρεταιος",
+            "hours": "15:00-17:00",
+            "link": "https://opencourses.ionio.gr/courses/DDI185/"
+        }
+    ],
+    "Thursday": [
+        {
+            "name": "Διοικηση Ασφαλειας Πληροφοριακων Συστηματων",
+            "room": "Αιθουσα 3",
+            "hours": "9:00-11:00",
+            "link": "https://opencourses.ionio.gr/courses/DDI126/"
+        },
+        {
+            "name": "Εξυπνες τεχνολογιες και εφαρμογες",
+            "room": "Γαληνος",
+            "hours": "11:00-13:00",
+            "link": "https://opencourses.ionio.gr/courses/DDI196/"
+        },
+        {
+            "name": "Διοικηση Ασφαλειας Πληροφοριακων Συστηματων",
+            "room": "Γαληνος",
+            "hours": "13:00-15:00",
+            "link": "https://opencourses.ionio.gr/courses/DDI126/"
+        },
+        {
+            "name": "Στρατηκη και Διοικηση Πληροφοριακων Συστηματων",
+            "room": "Αιθουσα 3",
+            "hours": "15:00-17:00",
+            "link": "https://opencourses.ionio.gr/courses/DDI152/"
+        }
+    ],
+    "Friday": [
+        {
+            "name": "Στρατηκη και Διοικηση Πληροφοριακων Συστηματων",
+            "room": "Αιθουσα 3",
+            "hours": "11:00-13:00",
+            "link": "https://opencourses.ionio.gr/courses/DDI152/"
+        },
+        {
+            "name": "Δικτυα Αισθητηρων",
+            "room": "Αιθουσα 1",
+            "hours": "13:00-15:00",
+            "link": "https://opencourses.ionio.gr/courses/DDI267/"
+        },
+        {
+            "name": "Δικτυα Αισθητηρων",
+            "room": "Αιθουσα 1",
+            "hours": "17:00-19:00",
+            "link": "https://opencourses.ionio.gr/courses/DDI267/"
+        }
+    ],
+    "Saturday": [],
+    "Sunday": []
+}
